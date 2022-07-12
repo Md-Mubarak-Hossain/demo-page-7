@@ -169,7 +169,7 @@ footer .link-button-1 {
 #background {
     display: inline-block;
 
-    background-image: url();
+    background-image: url(/images/bg.png);
     background-size: initial;
     background-repeat: no-repeat;
 }
